@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\BangJek\Coding\C#\Praktikum\modul2_1302203120\modul2_1302203120\bin\Debug\modul2_1302203120.exe.config
+C:\Users\Lenovo\Desktop\BangJek\Coding\C#\Praktikum\modul2_1302203120\modul2_1302203120\bin\Debug\modul2_1302203120.exe
+C:\Users\Lenovo\Desktop\BangJek\Coding\C#\Praktikum\modul2_1302203120\modul2_1302203120\bin\Debug\modul2_1302203120.pdb
+C:\Users\Lenovo\Desktop\BangJek\Coding\C#\Praktikum\modul2_1302203120\modul2_1302203120\obj\Debug\modul2_1302203120.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\BangJek\Coding\C#\Praktikum\modul2_1302203120\modul2_1302203120\obj\Debug\modul2_1302203120.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\BangJek\Coding\C#\Praktikum\modul2_1302203120\modul2_1302203120\obj\Debug\modul2_1302203120.Form1.resources
+C:\Users\Lenovo\Desktop\BangJek\Coding\C#\Praktikum\modul2_1302203120\modul2_1302203120\obj\Debug\modul2_1302203120.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\BangJek\Coding\C#\Praktikum\modul2_1302203120\modul2_1302203120\obj\Debug\modul2_1302203120.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\BangJek\Coding\C#\Praktikum\modul2_1302203120\modul2_1302203120\obj\Debug\modul2_1302203120.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BangJek\Coding\C#\Praktikum\modul2_1302203120\modul2_1302203120\obj\Debug\modul2_1302203120.exe
+C:\Users\Lenovo\Desktop\BangJek\Coding\C#\Praktikum\modul2_1302203120\modul2_1302203120\obj\Debug\modul2_1302203120.pdb

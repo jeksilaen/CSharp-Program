@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\BangJek\Coding\C#\Praktikum\Modul 2\TP_KPL_MOD2\TP_KPL_MOD2\obj\Debug\TP_KPL_MOD2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\BangJek\Coding\C#\Praktikum\Modul 2\TP_KPL_MOD2\TP_KPL_MOD2\obj\Debug\TP_KPL_MOD2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\BangJek\Coding\C#\Praktikum\Modul 2\TP_KPL_MOD2\TP_KPL_MOD2\obj\Debug\TP_KPL_MOD2.Form1.resources
+C:\Users\Lenovo\Desktop\BangJek\Coding\C#\Praktikum\Modul 2\TP_KPL_MOD2\TP_KPL_MOD2\obj\Debug\TP_KPL_MOD2.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\BangJek\Coding\C#\Praktikum\Modul 2\TP_KPL_MOD2\TP_KPL_MOD2\obj\Debug\TP_KPL_MOD2.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\BangJek\Coding\C#\Praktikum\Modul 2\TP_KPL_MOD2\TP_KPL_MOD2\obj\Debug\TP_KPL_MOD2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BangJek\Coding\C#\Praktikum\Modul 2\TP_KPL_MOD2\TP_KPL_MOD2\bin\Debug\TP_KPL_MOD2.exe.config
+C:\Users\Lenovo\Desktop\BangJek\Coding\C#\Praktikum\Modul 2\TP_KPL_MOD2\TP_KPL_MOD2\bin\Debug\TP_KPL_MOD2.exe
+C:\Users\Lenovo\Desktop\BangJek\Coding\C#\Praktikum\Modul 2\TP_KPL_MOD2\TP_KPL_MOD2\bin\Debug\TP_KPL_MOD2.pdb
+C:\Users\Lenovo\Desktop\BangJek\Coding\C#\Praktikum\Modul 2\TP_KPL_MOD2\TP_KPL_MOD2\obj\Debug\TP_KPL_MOD2.exe
+C:\Users\Lenovo\Desktop\BangJek\Coding\C#\Praktikum\Modul 2\TP_KPL_MOD2\TP_KPL_MOD2\obj\Debug\TP_KPL_MOD2.pdb
